@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/KaylaAI/static/css/main.f855e6bc.css",
+    "main.js": "/KaylaAI/static/js/main.5b5abab7.js",
+    "static/js/453.8286179e.chunk.js": "/KaylaAI/static/js/453.8286179e.chunk.js",
+    "static/media/logo.svg": "/KaylaAI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/KaylaAI/index.html",
+    "main.f855e6bc.css.map": "/KaylaAI/static/css/main.f855e6bc.css.map",
+    "main.5b5abab7.js.map": "/KaylaAI/static/js/main.5b5abab7.js.map",
+    "453.8286179e.chunk.js.map": "/KaylaAI/static/js/453.8286179e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5b5abab7.js"
+  ]
+}
